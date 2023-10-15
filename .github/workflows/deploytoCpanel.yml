@@ -11,6 +11,6 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
-        server: ftp.estevesricardo.com
+        server: 185.12.116.135
         username: ricardoadmin@estevesricardo.com
         password: h3@q#j2L
