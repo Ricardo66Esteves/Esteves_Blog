@@ -13,4 +13,4 @@ jobs:
       with:
         server: ftp.estevesricardo.com
         username: ricardoadmin@estevesricardo.com
-        password: ${{ secrets.FTP_PASSWORD }}
+        password: h3@q#j2L
